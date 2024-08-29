@@ -35,8 +35,8 @@ I'm a passionate web developer with a keen interest in ethical hacking and artif
 
 ## 📫 How to Reach Me
 
-- **Twitter**: [@YourTwitterHandle](https://x.com/Ak4351077866030)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/amol-kalel-947487265/)
-- **Email**: [your.kalelamol07@gmail.com](mailto:your.kalelamol07@gmail.com)
+- **Twitter**: [@itzzz_ak](https://x.com/Ak4351077866030)
+- **LinkedIn**: [@amol kalel](https://www.linkedin.com/in/amol-kalel-947487265/)
+- **Email**: [Mymail](mailto:your.kalelamol07@gmail.com)
 
 ---
