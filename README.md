@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile! 🎉
 
-![Profile Banner]([https://i.pinimg.com/236x/59/1d/c9/591dc99a11ea3ebc0a4bd7f8fd498fcd.jpg](https://i.pinimg.com/736x/4e/dc/01/4edc01ed9941f7a5f19dfeb2ecf3d874.jpg))
+![Profile Banner](https://in.pinterest.com/pin/208573026486155771/)
 
 I'm a passionate web developer with a keen interest in ethical hacking and artificial intelligence. Here’s a little about me:
 
